@@ -1,16 +1,22 @@
-## Hi there 👋
+## Isaac-Douglas
 
-<!--
-**DUGE331/DUGE331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud-Focused IT Student Building Production-Ready AWS Infrastructure
 
-Here are some ideas to get you started:
+I’m a Information Technology student at QUT, focused on cloud engineering, solutions architecture, and communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build and deploy real AWS environments using Terraform, Docker, and modern DevOps practices.
+
+🛠 Tech Stack
+Cloud: AWS
+Infrastructure as Code: Terraform
+Containers: Docker
+CI/CD: GitHub Actions
+Languages: Python, JavaScript
+Version Control: Git
+
+🔗 Links
+🌐 Portfolio: [https://www.isaac-douglas.com]
+💼 LinkedIn: Isaac Douglas [https://www.linkedin.com/in/isaac-douglas-311699375]
+🚀 Resume: Isaac Douglas Resume
+
+Currently building: modular AWS starter infrastructure designed for real-world SaaS deployment.
