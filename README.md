@@ -22,7 +22,7 @@ I design and deploy real AWS environments using Infrastructure as Code, containe
 
 - 🌐 Portfolio: [isaac-douglas.com](https://www.isaac-douglas.com)  
 - 💼 LinkedIn: [Isaac Douglas](https://www.linkedin.com/in/isaac-douglas-311699375)  
-- 🚀 Resume: [Isaac Douglas Resume](resume/Isaac_Douglas_Resume_2026.pdf)  
+- 🚀 Resume: [Isaac Douglas Resume](Isaac_Douglas_Resume_2026.pdf)
 
 ---
 
