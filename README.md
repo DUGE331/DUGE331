@@ -11,7 +11,7 @@ I design and deploy real AWS environments using Infrastructure as Code, containe
 
 **Cloud:** AWS  
 **Infrastructure as Code:** Terraform  
-**Containers:** Docker  
+**Containers:** Docker, Kubernetes  
 **CI/CD:** GitHub Actions  
 **Languages:** Python, JavaScript  
 **Version Control:** Git  
